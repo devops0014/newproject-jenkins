@@ -468,7 +468,7 @@
         <!-- Hero revamped -->
         <section class="hero-modern">
             <div class="container hero-content">
-                <div class="hero-badge"><i class="fas fa-gem"></i> Limited Edition Drops</div>
+                <div class="hero-badge"><i class="fas fa-gem"></i> Summer sale starts soon</div>
                 <h1>Make Your <span style="color: #3b82f6;">Everyday</span> Style</h1>
                 <p style="font-size: 1.2rem; max-width: 600px; margin: 0 auto; opacity: 0.9;">Discover futuristic design, premium materials, and exclusive flash sales.</p>
                 <div class="hero-buttons">
