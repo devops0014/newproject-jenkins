@@ -442,7 +442,7 @@
 <body>
     <header class="glass-header">
         <div class="container header-flex">
-            <div class="logo"><i class="fas fa-bolt" style="color: #3b82f6;"></i> NovaMart</div>
+            <div class="logo"><em class="fas fa-bolt" style="color: #3b82f6;"></em> NovaMart</div>
             <div class="nav-links">
                 <a href="#" class="nav-link" data-nav="home">Home</a>
                 <a href="#" class="nav-link" data-nav="shop">Shop</a>
